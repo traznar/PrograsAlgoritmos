@@ -21,7 +21,7 @@ string lcsDPreturn(string A , string B , int num, int num2){
         }
      //cout << "NANI" << endl;
      string nani = A.substr(end-size,size);
-     return nani
+     return nani;
 
 }
 
